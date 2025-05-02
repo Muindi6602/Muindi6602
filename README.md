@@ -1,8 +1,8 @@
-# Joseph Muindi
+# Victor John
 
 **Full-Stack Web Developer | Security-Driven Coder | Tech Enthusiast**
 
-Welcome! I'm Joseph Muindi, a passionate full-stack developer who thrives on building modern, secure, and scalable web applications. I enjoy working across the stack, but my true strength lies in backend development—especially using the PHP-Laravel & Nodejs alongside frameworks and patterns that promote maintainability and security.
+Welcome! I'm Victor John, a passionate full-stack developer who thrives on building modern, secure, and scalable web applications. I enjoy working across the stack, but my true strength lies in backend development—especially using the PHP-Laravel & Nodejs alongside frameworks and patterns that promote maintainability and security.
 
 ---
 
@@ -56,8 +56,8 @@ Welcome! I'm Joseph Muindi, a passionate full-stack developer who thrives on bui
 ## 🤝 Connect With Me
 
 - GitHub: [github.com/Muindi6602](https://github.com/Muindi6602)
-- LinkedIn: [https://www.linkedin.com/in/joseph-muindi-mutua-16a289244](https://www.linkedin.com/in/joseph-muindi-mutua-16a289244)
-- Email: mutuajosephmuindi@gmail.com
+- LinkedIn: www.linkedin.com/in/victor-john-788923363
+- Email: vickiejohn230@gmail.com
 
 ---
 
