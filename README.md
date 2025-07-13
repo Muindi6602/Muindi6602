@@ -2,7 +2,7 @@
 
 **Full-Stack Web Developer | Financial Analyst | Accountant**
 
-Welcome! I'm Joseph Muindi, a passionate full-stack developer who thrives on building modern, secure, and scalable web applications. I enjoy working across the stack, but my true strength lies in backend development—especially using the PHP-Laravel & Nodejs alongside frameworks and patterns that promote maintainability and security.
+Welcome! I'm Joseph Muindi, a passionate full-stack developer who thrives on building modern, secure, and scalable web applications. I enjoy working across the stack, but my true strength lies in backend development—especially using the PHP & TypeScript alongside frameworks like Laravel and NextJs and patterns that promote maintainability and security.
 
 ---
 
